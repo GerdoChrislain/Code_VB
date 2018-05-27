@@ -1,0 +1,10 @@
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\bin\Debug\calculette.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\bin\Debug\calculette.exe
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\bin\Debug\calculette.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\bin\Debug\calculette.xml
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.exe
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.xml
+C:\Users\HP\AppData\Local\Temporary Projects\calculette\obj\Debug\calculette.pdb
